@@ -11,7 +11,7 @@ This project aims to build on the deep learning concepts from ProjectUno.
 3. Install dependencies for Tensorflow and Keras
 4. Execute and Troubleshoot code with Tensorflow and Keras libraries
 5. Import Outside Datasets 
-BONUS: Enable Nvidia GPUs
+6. BONUS: Enable Nvidia GPUs
 
 # Before we begin:
 - Uninstall any other versions of Python installed on the Windows Machine
