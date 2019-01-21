@@ -1,3 +1,5 @@
+https://github.com/theroadtoserfdom/Project2 backup
+ 
 # Project2
 Windows 10 - Anaconda, Jupyter Notebook, Tensorflow, Keras 
 
@@ -11,28 +13,22 @@ This project aims to build on the deep learning concepts from ProjectUno.
 3. Install dependencies for Tensorflow and Keras
 4. Execute and Troubleshoot code with Tensorflow and Keras libraries
 5. Import Outside Datasets 
-6. BONUS: Enable Nvidia GPUs
 
-# Before we begin:
-- Uninstall any other versions of Python installed on the Windows Machine
-- Download the latest Anaconda Installer from https://www.anaconda.com/download/
-  - Be sure to select the proper bit installer (E.g. x64 64-Bit or x86 32-Bit) 
-  - I chose to NOT add Anaconda to my PATH environment variable (this gives Python access to our CMD terminal via the Python Command)
-  
 # Exclaimer: At the making of this tutorial Tensorflow only supports Python 3.6  
 (I.e. no need to worry about the Python Version (ex. 3.6) this can be specified within our Virtual Environments)
 
-# Once you have Anaconda Installed: Let's set up our Virtual Environment & Install our Dependencies
+# Before we begin: 
+- Let's set up our Virtual Environment & Install our Dependencies
 
 To Create Virtual Environments within Anaconda: 
-- conda create -n ProjectUno python=3.6
+- conda create -n Project2 python=3.6
 - Proceed ([y]/n)? y - to Update Packages 
 
 To List All Virtual Environments within Anaconda:
 - conda env list 
 
 To Enter a Virtual Environment 
-- activate ProjectUno
+- activate Project2
 
 To Check Python Dependency Versions
 - python --version 
@@ -45,7 +41,7 @@ To Install Python Dependencies
 
 To Enable our Virtual Environment within Jupyter Notebook
 - pip install ipykernel
-- python -m ipykernel install --user --name=ProjectUno
+- python -m ipykernel install --user --name=Project2
 
 Open Jupyter Notebook
 - Jupyter Notebook
