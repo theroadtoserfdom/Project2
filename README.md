@@ -1,6 +1,4 @@
-https://github.com/theroadtoserfdom/Project2 backup
- 
-# Project2
+ Project2
 Windows 10 - Anaconda, Jupyter Notebook, Tensorflow, Keras 
 
 # Course Objective:
